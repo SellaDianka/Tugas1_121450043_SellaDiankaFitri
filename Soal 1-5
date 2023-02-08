@@ -1,0 +1,41 @@
+Nama : Sella Dianka Fitri
+NIM : 121450043
+Kelas : RB
+
+1.	Penjelasan mengenai kelebihan dan kekurangan paradigma procedural disbanding object oriented.
+Kelebihan 	                                                             
+Paradigma procedural lebih mudah menangani debugging. 
+Paradigma procedural lebih berfokus pada proses dalam suatu penyelesaian masalah sehingga akan lebih mudah dipahami.
+Proses dokumentasi program akan lebih mudah dilakukan.	
+Kekurangan
+Pemodelan kode menjadi lebih sulit karena karena banyaknya variable.
+Kurangnya pembatasan hak akses disbanding dengan OOP
+Kesulitan dalam pembangunan abstraksi yang sesuai dengan model yang diinginkan.
+
+
+2.	Penjelasan mengenai kelebihan dan kekurangan Object Oriented dibandingkan Functional
+
+Kelebihan	
+Dapat dilakukan modifikasi class tanpa modifikasi code sebelumnya.	
+Proses pembuatan unit test akan membutuhkan interaksi kelas-kelasnya sehingga lebih sulit.
+Generalisasi atau spesialisasi lebih memungkinkan untuk dilakukan.	
+kekurangan
+Debugging yang dialami akan lebih sulit untuk diselesaikan.
+User hanya dapat melihat view karena OOP menerapkan system untuk menyembunyikan implementasi dalam object.
+Proses pemeliharaannya lebih sulit karena penggunaan class.
+Kekurangan
+
+3.	Penjelasana mengenai kelebihan dan kekurangan Procedural dibandingkan dengan functional
+Kelebihan 	
+Memiliki sintaks yang sederhana sehingga mudah dipahami	
+Dapat diterapkan dalam berbagai jenis platform
+Pemecahan masalahnya dilakukan dengan lebih terstruktur sehingga pengembangan lebih mudah dilakukan	Focus lebih dilakukan pada proses dan bukan datanya.
+Kekurangan	
+Pembagian kode menjadi sub unit tidak tersedia sehingga tidak memungkinkan adanya program skalabel
+Sulitnya pengubahan data yang berbeda.
+Focus lebih dilakukan pada proses dan bukan datanya.
+
+4.	Pengertian Pure Funtional Programming Language
+Pada paradigma ini, hanya terdapat fungsi matematis sebagai dasar pembuataannya sehingga tidak memungkinkan pengubahan nilai input, namun tetap dapat dilakukan pengubahan output. Contohnya adalah Lisp dan Haskell.
+
+5.	Yang termasuk dalam Bahasa pemrograman pure functional adalah Lisp, Standard ML dan juga Haskell.
